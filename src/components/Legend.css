@@ -1,0 +1,36 @@
+.Main {
+  margin-left: 10%;
+  margin-top: 2%;
+  width: 80%;
+  height: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.darkest {
+  width: 40%;
+  text-align: center;
+  color: white;
+  background-color: rgb(44, 38, 182, 1);
+}
+
+.dark {
+  width: 30%;
+  text-align: center;
+
+  background-color: rgb(60, 115, 255);
+}
+
+.normal {
+  text-align: center;
+
+  width: 20%;
+  background-color: rgb(104, 183, 255);
+}
+
+.light {
+  width: 10%;
+  text-align: center;
+
+  background-color: rgb(183, 230, 255);
+}
