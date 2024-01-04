@@ -3,7 +3,7 @@
 An interactive map for users in ReactJS which shows: \
 Network available in regions \
 Data Usage represented as per the color \
-Display the usage details on click \
+Display the usage details on click 
 
 ![Screenshot 2024-01-04 135331](https://github.com/Sid-0307/iMap/assets/110523312/65902cbe-55a8-4fd7-bd5a-b411de0ff7db)\
 \
